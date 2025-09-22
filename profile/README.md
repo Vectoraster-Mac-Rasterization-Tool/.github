@@ -20,7 +20,7 @@ The software supports a wide range of input formats and allows real-time adjustm
 
 Fully optimized for **macOS Sonoma, Ventura, and Monterey**, Vectoraster runs efficiently on both Intel and Apple Silicon Macs. Its intuitive interface ensures that both beginners and professionals can achieve high-quality results quickly.
 
-![Vectoraster Preview](https://static.macupdate.com/screenshots/345826/m/vectoraster-screenshot.webp?v=1666005849)
+![Vectoraster Preview](https://mir-s3-cdn-cf.behance.net/project_modules/max_632_webp/441f7a22773873.5fe0b19a9eaa2.jpg)
 
 ---
 
